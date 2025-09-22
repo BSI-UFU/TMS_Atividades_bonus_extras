@@ -90,7 +90,7 @@ As notas seguem a escala de 0 a 100%, considerando o percentual de atividades co
 | A10.1T  | Detecção de Code Smells                      | 100%           | Consegui realizar 100% da atividade                                                 | 22/09/2025 02:53     | [Ver atividade](../aula10/)                |               
 | A11.1T  | Refatoração (1)                              | 100%           | Consegui realizar 100% da atividade                                                 | 15/09/2025 18:33     | [Ver atividade](../aula11/)                |
 | A11.1T  | Refatoração (1)                              | 90%            | Faltou  a atividade 06                                                              | 15/09/2025 18:58     | [Ver atividade](../aula11/)                |
-|---------|----------------------------------------------|----------------|-------------------------------------------------------------------------------------|----------------------|-------------------------------------------|
+|---------| Vídeo                                        |----------------|-------------------------------------------------------------------------------------| 22/09/2025 08:30     | [Ver atividade](../README.md/)             |
 
 
 
