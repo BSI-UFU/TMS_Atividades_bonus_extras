@@ -7,7 +7,7 @@ As notas seguem a escala de 0 a 100%, considerando o percentual de atividades co
 
 | Aula    | Atividade                                    | Auto-avaliação | Justificativa                                                                       | Data/Hora completada | Link para o registro da atividade no Git  |
 |---------|----------------------------------------------|----------------|-------------------------------------------------------------------------------------|----------------------|-------------------------------------------|
-| A01.1T  | Outros casos notáveis...                     | 100%           | Consegui realizar 100% da atividade, com auxilo do google                           | 18/06/2025 16:12     | [Ver atividade](./aula01/A01.1T)          |
+| A01.1T  | Outros casos notáveis...                     | 100%           | Consegui realizar 100% da atividade, com auxilo do google                           | 18/06/2025 16:12     | [Ver atividade](../aula01/A01.1T)         |
 | A01.1T  | Características e Aspectos                   | 100%           | Consegui realizar 100% da atividade, com auxilo do google e informações do slides   | 20/06/2025 20:26     | [Ver atividade](./aula01/A01.1T)          |
 | A01.1T  | Conceito de Qualidade de Software            | 100%           | Consegui realizar 100% da atividade, com auxilo do google e informações do slides   | 19/09/2025 12:21     | [Ver atividade](./aula01/A01.1T)          |
 | A01.1T  | Normas de Qualidade                          | 100%           | Atividade concluída integralmente, com auxilio do ChatGPT para acesso as normas     | 01/07/2025 20:51     | [Ver atividade](./aula01/A01.1T)          |
@@ -86,10 +86,10 @@ As notas seguem a escala de 0 a 100%, considerando o percentual de atividades co
 | A09.2P  | Conversor de Unidades                        | 100%           | Consegui realizar 100% da atividade                                                 | 22/09/2025 00:53     | [Ver atividade](./aula09/A09.2P)          |               
 | A09.2P  | Jogo da Velha                                | 100%           | Consegui realizar 100% da atividade, com ajuda do Gemini                            | 22/09/2025 01:32     | [Ver atividade](./aula09/A09.2P)          |               
 | A09.2P  | TDD Katas                                    | 100%           | Consegui realizar 100% da atividade, com ajuda do Gemini                            | 22/09/2025 02:53     | [Ver atividade](./aula09/A09.2P)          |                
-| A10.1T  | Detecção de Code Smells                      | 100%           | Consegui realizar 100% da atividade                                                 | 22/09/2025 02:53     | [Ver atividade](./aula10/A10.1T)          |               
-| A10.1T  | Detecção de Code Smells                      | 100%           | Consegui realizar 100% da atividade                                                 | 22/09/2025 02:53     | [Ver atividade](./aula10/A10.1T)          |               
-| A10.2T  | Refatoração (1)                              | 100%           | Consegui realizar 100% da atividade                                                 | 15/09/2025 18:33     | [Ver atividade](./aula10/A10.2T)          |
-| A10.2T  | Refatoração (1)                              | 90%            | Faltou  a atividade 06                                                              | 15/09/2025 18:58     | [Ver atividade](./aula10/A10.2T)          |
+| A10.1T  | Detecção de Code Smells                      | 100%           | Consegui realizar 100% da atividade                                                 | 22/09/2025 02:53     | [Ver atividade](./aula10/)                |               
+| A10.1T  | Detecção de Code Smells                      | 100%           | Consegui realizar 100% da atividade                                                 | 22/09/2025 02:53     | [Ver atividade](./aula10/)                |               
+| A11.1T  | Refatoração (1)                              | 100%           | Consegui realizar 100% da atividade                                                 | 15/09/2025 18:33     | [Ver atividade](./aula11/)                |
+| A11.1T  | Refatoração (1)                              | 90%            | Faltou  a atividade 06                                                              | 15/09/2025 18:58     | [Ver atividade](./aula11/)                |
 |---------|----------------------------------------------|----------------|-------------------------------------------------------------------------------------|----------------------|-------------------------------------------|
 
 
