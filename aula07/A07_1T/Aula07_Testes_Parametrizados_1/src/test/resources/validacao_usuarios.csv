@@ -1,0 +1,7 @@
+EMAIL,NOME,ESPERADO_VALIDO
+teste@dominio.com,Usuario Valido,true
+teste.valido@dominio.com,Outro Valido,true
+usuario_1.com,Nome,false
+usuario@dominio invalido.com,Nome,false
+usuario.invalido@dominio.com,Nome123,false
+usuario_valido@dominio.com,Nome Valido Espaco,true
